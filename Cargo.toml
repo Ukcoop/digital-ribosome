@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = ["digital-ribosome", "trainer"]
+members = ["digital_ribosome", "get_training_data", "trainer"]
 
 [profile.dev]
 opt-level = 3
